@@ -1,0 +1,7 @@
+&La siguiente llave no es igual: Test
+Expected Result: "Chau"
+Actual Result: "Hola"
+'La siguiente llave no es igual: Test2
+Expected Result: "Hola"
+Actual Result: "Chau"
+>La siguiente llave no existe en el resultado esperado: Test2

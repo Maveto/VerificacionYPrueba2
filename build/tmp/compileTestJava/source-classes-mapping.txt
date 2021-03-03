@@ -1,0 +1,16 @@
+runner/MyStepdefs.java
+ runner.MyStepdefs
+runner/Runner.java
+ runner.Runner
+basicRestAssured/BasicTest.java
+ basicRestAssured.BasicTest
+runner/CreateItem.java
+ runner.CreateItem
+tareaCompararJson/CrudItems.java
+ tareaCompararJson.CrudItems
+tareaCompararJson/CompararJsonsTest.java
+ tareaCompararJson.CompararJsonsTest
+tareaCompararJson/CompararJsons.java
+ tareaCompararJson.CompararJsons
+basicRestAssured/RESTItem.java
+ basicRestAssured.RESTItem
