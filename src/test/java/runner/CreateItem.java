@@ -19,7 +19,7 @@ public class CreateItem {
         System.out.println("Conectado con Todo.ly");
     }
 
-    @When("Envio una peticion POST a {string} con el json")
+    @When("Envio una peticion POST a {} con el json")
     public void envioUnaPeticionPOSTAConElJson(String url, String body) {
 
         response = given().

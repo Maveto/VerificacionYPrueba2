@@ -20,6 +20,6 @@ public class MyStepdefs {
     }
 
     @And("I expect the project's name to be {string}")
-    public void iExpectTheProjectSNameToBe() {
+    public void iExpectTheProjectSNameToBe(String name) {
     }
 }

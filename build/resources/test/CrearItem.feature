@@ -6,7 +6,7 @@ Feature:
 
     Given Tengo acceso a Todo.ly
 
-    When Envio una peticion POST a "http://todo.ly/api/items.json" con el json
+    When Envio una peticion POST a http://todo.ly/api/items.json con el json
     """
     {
       "Content" : "Item",

@@ -2,6 +2,8 @@ runner/MyStepdefs.java
  runner.MyStepdefs
 runner/Runner.java
  runner.Runner
+helpers/GenerateLocalReport.java
+ helpers.GenerateLocalReport
 basicRestAssured/BasicTest.java
  basicRestAssured.BasicTest
 runner/CreateItem.java
@@ -14,3 +16,5 @@ tareaCompararJson/CompararJsons.java
  tareaCompararJson.CompararJsons
 basicRestAssured/RESTItem.java
  basicRestAssured.RESTItem
+runner/TareaCRUDItem.java
+ runner.TareaCRUDItem
